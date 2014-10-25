@@ -14,8 +14,9 @@ namespace Redis
     {
         static void Main(string[] args)
         {
-            ConnectionMultiplexer conn = ConnectionMultiplexer.Connect("127.0.0.1:6379, ssl=false");
-
+            //ConnectionMultiplexer conn = ConnectionMultiplexer.Connect("127.0.0.1:6379, ssl=false");
+            ConnectionMultiplexer conn = ConnectionMultiplexer.Connect("treinando.redis.cache.windows.net, ssl=false, password=She4F6q4exM8P2eHsOZkAAs/OTS2OQrQVhmrLny8YZ0=");
+            
 
             //Objetos simples
             IDatabase cache = conn.GetDatabase();
