@@ -1,0 +1,11 @@
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\memCached.exe.config
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\memCached.exe
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\memCached.pdb
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\Commons.dll
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\log4net.dll
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\Memcached.ClientLibrary.dll
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\bin\Debug\Memcached.ClientLibrary.pdb
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\obj\Debug\memCached.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\obj\Debug\memCached.exe
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\memCached\obj\Debug\memCached.pdb

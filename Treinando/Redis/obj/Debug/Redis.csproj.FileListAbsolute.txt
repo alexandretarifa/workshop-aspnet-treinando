@@ -1,0 +1,9 @@
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\bin\Debug\Redis.exe.config
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\bin\Debug\Redis.exe
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\bin\Debug\Redis.pdb
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\bin\Debug\StackExchange.Redis.dll
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\bin\Debug\StackExchange.Redis.xml
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\obj\Debug\Redis.exe
+C:\Users\Alexandre\Dropbox\Mesh\Treinando\Workshop Práticas 2014\Demos\src\Treinando\Redis\obj\Debug\Redis.pdb
