@@ -8,13 +8,13 @@ namespace outputcache.Controllers
 {
     public class HomeController : Controller
     {
-        //[OutputCache(Duration=30)]
+        [OutputCache(Duration=30)]
         public ActionResult Index()
         {
 
-            Session["teste"] = DateTime.Now.ToString();
+            //Session["teste"] = DateTime.Now.ToString();
 
-            var teste = Session["teste"]; 
+            //var teste = Session["teste"]; 
 
             ViewBag.Message = DateTime.Now.ToString();
 
